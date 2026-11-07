@@ -1,0 +1,2 @@
+Нотатки до ЛР1: основні команди Git
+git clone, git init, git remote, git pull, git add, git commit, git push
